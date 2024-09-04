@@ -1,11 +1,18 @@
 ## Hi there 👋
+My name is **Evan** and I'm a Computer Engineer. I work on radios and encryption for the government!
 
+- 🔨 I’m currently working on a cool new SOSA compliant card for Leonardo DRS
+- 🌱 I’m currently acquiring my masters degree
+- 📫 How to reach me: eryan@insight.rr.com or ryane7@udayton.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Everyone confuses my first name and my last name!  You probably will too, it's okay, literally *everyone* does it!
+- 
 <!--
 **levw-eats-tacos/levw-eats-tacos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔨 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
