@@ -6,7 +6,6 @@ My name is **Evan** and I'm a Computer Engineer. I work on radios and encryption
 - 📫 How to reach me: eryan@insight.rr.com or ryane7@udayton.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everyone confuses my first name and my last name!  You probably will too, it's okay, literally *everyone* does it!
-- 
 <!--
 **levw-eats-tacos/levw-eats-tacos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
